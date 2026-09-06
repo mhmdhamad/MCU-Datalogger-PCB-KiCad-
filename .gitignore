@@ -1,0 +1,21 @@
+# KiCad backups and autosave
+*-backups/
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.000
+*.bak
+
+# Lock files
+*.lck
+
+# Plot/Gerber/export output (optional - remove if you want these tracked)
+*.pdf
+*.zip
+gerbers/
+plots/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.tmp
