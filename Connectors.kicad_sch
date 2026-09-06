@@ -959,6 +959,259 @@
 			(embedded_fonts no)
 		)
 	)
+	(hierarchical_label "D2"
+		(shape bidirectional)
+		(at 124.46 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1e54d5c8-f448-4da1-96df-93683f5a66cc")
+	)
+	(hierarchical_label "RX"
+		(shape input)
+		(at 153.67 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "223a5db5-d29a-4381-92fb-8150dac0d683")
+	)
+	(hierarchical_label "MISO"
+		(shape output)
+		(at 142.24 111.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "236b5b43-8a21-4024-a008-082399ec05a8")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 154.94 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2423c4ee-c650-40b6-a84a-2d138f5cb8d4")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 153.67 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "249e0b73-6858-4d60-9f3b-b2e5419fc629")
+	)
+	(hierarchical_label "TX"
+		(shape output)
+		(at 153.67 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "30909243-8359-446a-8d62-c81a1688cf4c")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 125.73 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3f97ddbb-6553-4e8f-8f41-c01cd7c078ea")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 154.94 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "449b8ab0-09ae-433e-ac3e-dd581d155098")
+	)
+	(hierarchical_label "SCK"
+		(shape passive)
+		(at 142.24 114.3 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "519c81d5-a073-44a5-b787-98c19e18caa4")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 154.94 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "54d081d6-4601-4fdc-978f-56aff9bb5ed4")
+	)
+	(hierarchical_label "SDA"
+		(shape bidirectional)
+		(at 125.73 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "59cd109e-f5cc-4eda-971d-ee907228ff06")
+	)
+	(hierarchical_label "D7"
+		(shape bidirectional)
+		(at 124.46 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5ef32ed3-2d7e-40c6-b57a-3a3801c94d54")
+	)
+	(hierarchical_label "D5"
+		(shape bidirectional)
+		(at 124.46 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "659de57b-9f54-4950-bab0-90913b7c8c78")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 124.46 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "69167a3b-0dbb-4295-95a7-d43aefdfee19")
+	)
+	(hierarchical_label "D3"
+		(shape bidirectional)
+		(at 124.46 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "75b3e3b1-4ae4-4986-8a17-33916a1fd8ed")
+	)
+	(hierarchical_label "RESET"
+		(shape passive)
+		(at 142.24 116.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "75b5db0e-8a59-4c36-b157-b8561f24f61a")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 153.67 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "81b92e00-3c96-4803-9d08-f9d9e5bc8c2b")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 124.46 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "905bd6b9-cc94-4d63-bbf7-0dcc5183f4ff")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 125.73 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a0c8256c-dd15-40b7-ac78-f22598c6b61e")
+	)
+	(hierarchical_label "D6"
+		(shape bidirectional)
+		(at 124.46 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bdc87b42-753e-4a98-bbf2-15e3384da564")
+	)
+	(hierarchical_label "SCK"
+		(shape passive)
+		(at 125.73 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bffa7846-dd31-4dc3-aefe-69f74ad1bcf6")
+	)
+	(hierarchical_label "D8"
+		(shape bidirectional)
+		(at 124.46 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c6503a80-bf50-4516-87c6-f354d6b9ddbe")
+	)
+	(hierarchical_label "D4"
+		(shape bidirectional)
+		(at 124.46 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f0841a97-e74a-44da-bd6f-e9ffca43b25d")
+	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
 		(at 148.59 88.9 0)
