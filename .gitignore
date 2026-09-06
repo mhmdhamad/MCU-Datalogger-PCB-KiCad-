@@ -19,3 +19,9 @@ plots/
 .DS_Store
 Thumbs.db
 *.tmp
+
+# cache files 
+fp-info-cache
+*-cache.lib
+*.cache
+MCUDatalogerGerber/*
