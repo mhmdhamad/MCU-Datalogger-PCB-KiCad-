@@ -1220,9 +1220,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1ad54e6c-a919-4435-8cf6-73e266355868")
-		(property "Reference" "Je1"
+		(property "Reference" "J3"
 			(at 149.225 81.28 0)
 			(effects
 				(font
@@ -1266,7 +1265,7 @@
 			)
 		)
 		(property "Purpose" "serial UART"
-			(at 148.59 88.9 0)
+			(at 152.4 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1288,7 +1287,7 @@
 		(instances
 			(project "MCU Datalogger"
 				(path "/b34ba724-37f1-4069-92d1-dfc9c20970e0/121f44e2-27fc-4ef2-96b3-bc3990488b1d"
-					(reference "Je1")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -1302,9 +1301,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3e71eb5d-1892-4d24-901f-acdc7ce3c785")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 120.015 101.6 0)
 			(effects
 				(font
@@ -1348,7 +1346,7 @@
 			)
 		)
 		(property "Purpose" "GPIO"
-			(at 119.38 116.84 0)
+			(at 123.19 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1385,7 +1383,7 @@
 		(instances
 			(project ""
 				(path "/b34ba724-37f1-4069-92d1-dfc9c20970e0/121f44e2-27fc-4ef2-96b3-bc3990488b1d"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -1399,9 +1397,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "62365943-3ca6-4d4d-b95c-cf1441c16d0c")
-		(property "Reference" "J2"
+		(property "Reference" "J4"
 			(at 148.59 105.41 0)
 			(effects
 				(font
@@ -1445,7 +1442,7 @@
 			)
 		)
 		(property "Purpose" "ICSP"
-			(at 147.32 114.3 0)
+			(at 148.59 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1473,7 +1470,7 @@
 		(instances
 			(project ""
 				(path "/b34ba724-37f1-4069-92d1-dfc9c20970e0/121f44e2-27fc-4ef2-96b3-bc3990488b1d"
-					(reference "J2")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -1487,9 +1484,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a5078277-7340-4267-a580-09350561d5a6")
-		(property "Reference" "Je2"
+		(property "Reference" "J1"
 			(at 121.285 81.28 0)
 			(effects
 				(font
@@ -1533,7 +1529,7 @@
 			)
 		)
 		(property "Purpose" "I2C"
-			(at 120.65 88.9 0)
+			(at 124.46 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1555,7 +1551,7 @@
 		(instances
 			(project ""
 				(path "/b34ba724-37f1-4069-92d1-dfc9c20970e0/121f44e2-27fc-4ef2-96b3-bc3990488b1d"
-					(reference "Je2")
+					(reference "J1")
 					(unit 1)
 				)
 			)

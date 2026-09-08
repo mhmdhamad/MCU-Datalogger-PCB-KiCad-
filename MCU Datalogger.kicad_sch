@@ -4183,6 +4183,16 @@
 		(uuid "c331ecb7-e77f-4e31-a4b5-79ec309e8b4a")
 	)
 	(label "Vcc"
+		(at 252.73 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c4df7b91-bd8a-4c7a-a17f-bc7aca734e7a")
+	)
+	(label "Vcc"
 		(at 181.61 85.09 180)
 		(effects
 			(font
@@ -4902,7 +4912,7 @@
 		(dnp no)
 		(uuid "23ef079d-fa26-4155-9d0a-648dbb59f0ac")
 		(property "Reference" "C2"
-			(at 165.1 44.45 90)
+			(at 168.91 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
