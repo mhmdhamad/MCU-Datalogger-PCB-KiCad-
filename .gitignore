@@ -25,5 +25,6 @@ Thumbs.db
 fp-info-cache
 *-cache.lib
 *.cache
+*.kicad_prl
 2Layer_MCU_Datalogger_Gerbers/*
 4Layer_MCU_Datalogger_Gerbers/*
