@@ -3544,16 +3544,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 34.29) (xy 242.57 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b45c3581-c722-4766-b286-8b60b86e29d7")
-	)
-	(wire
-		(pts
 			(xy 196.85 64.77) (xy 187.96 64.77)
 		)
 		(stroke
@@ -3782,16 +3772,6 @@
 		)
 		(uuid "f9c453f0-cb89-48e3-afc2-d10eec0eca33")
 	)
-	(label "abcd"
-		(at 187.96 46.99 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "01060229-5443-460a-934c-e5a150161f47")
-	)
 	(label "D3"
 		(at 227.33 54.61 0)
 		(effects
@@ -3842,16 +3822,6 @@
 		)
 		(uuid "123ff981-1c90-4246-b432-c02f14577134")
 	)
-	(label "SCK"
-		(at 173.99 130.81 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "13ff6e3d-c9df-4ba6-a270-c77d5f7eecec")
-	)
 	(label "RX"
 		(at 227.33 46.99 0)
 		(effects
@@ -3861,16 +3831,6 @@
 			(justify left bottom)
 		)
 		(uuid "1e0809f8-49f4-4591-b379-3a32a18b57dc")
-	)
-	(label "ABC123"
-		(at 228.6 74.93 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "23cc91fa-ea3b-4597-ac6a-8af624835279")
 	)
 	(label "RESET"
 		(at 173.99 154.94 180)
@@ -3893,7 +3853,7 @@
 		(uuid "30344db2-1a0f-4f26-85ca-9401c8e1d663")
 	)
 	(label "TX"
-		(at 173.99 138.43 180)
+		(at 173.99 135.89 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3911,16 +3871,6 @@
 			(justify right bottom)
 		)
 		(uuid "3455992d-d70b-4978-a8b3-c8d73c84b683")
-	)
-	(label "SCK"
-		(at 104.14 147.32 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "35207020-22e1-4df8-9080-16d3b6176c17")
 	)
 	(label "Vcc"
 		(at 40.64 149.86 180)
@@ -3963,7 +3913,7 @@
 		(uuid "3eeaa443-73a9-42d7-a094-fe94bc4ec5d5")
 	)
 	(label "RX"
-		(at 173.99 140.97 180)
+		(at 173.99 138.43 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3991,6 +3941,26 @@
 			(justify left bottom)
 		)
 		(uuid "4ce2c907-4f06-43f2-bdba-db255ecfe459")
+	)
+	(label "SCL"
+		(at 60.96 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4dd7ab42-4518-472f-90f9-bbcdd01d9e2b")
+	)
+	(label "SCL"
+		(at 114.3 158.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4e1aa07b-8b91-4554-8f29-ccc1ab410c65")
 	)
 	(label "Vcc"
 		(at 50.8 132.08 0)
@@ -4021,6 +3991,26 @@
 			(justify right bottom)
 		)
 		(uuid "571cc999-c859-407f-aa90-fa72df192204")
+	)
+	(label "SCL"
+		(at 39.37 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "619ab88d-f086-4d82-aa8a-f69a9356f38a")
+	)
+	(label "SCL"
+		(at 104.14 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "636bfeea-ccc3-449b-8457-f337d46aea1f")
 	)
 	(label "D7"
 		(at 227.33 64.77 0)
@@ -4072,16 +4062,6 @@
 		)
 		(uuid "85ab328d-4899-4d14-a9ee-98bbd5234e41")
 	)
-	(label "SCK"
-		(at 114.3 158.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "885b659b-bf60-4a64-a50d-c2bcc1d2eb18")
-	)
 	(label "MOSI"
 		(at 173.99 147.32 180)
 		(effects
@@ -4122,15 +4102,15 @@
 		)
 		(uuid "930e52c8-f0a0-4098-bf62-e106323be37d")
 	)
-	(label "SCK"
-		(at 39.37 46.99 180)
+	(label "SCL"
+		(at 173.99 130.81 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "a4b6cb11-bb23-4c4d-965a-e441967aeeef")
+		(uuid "9ecf143c-3bf9-4277-b5ce-8db80338c0bc")
 	)
 	(label "SDA"
 		(at 60.96 144.78 0)
@@ -4172,7 +4152,7 @@
 		)
 		(uuid "b7326237-add2-4f39-a777-e60b85757689")
 	)
-	(label "SCK"
+	(label "SCL"
 		(at 196.85 82.55 180)
 		(effects
 			(font
@@ -4181,16 +4161,6 @@
 			(justify right bottom)
 		)
 		(uuid "c18d3cae-dc51-4501-aa41-f46b2950830a")
-	)
-	(label "SCK"
-		(at 60.96 147.32 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c30b04f0-232b-4914-b0c7-5f37af6168c5")
 	)
 	(label "D7"
 		(at 203.2 147.32 0)
@@ -4291,6 +4261,16 @@
 			(justify right bottom)
 		)
 		(uuid "f7bfafeb-c937-4d6a-bbe2-31becbc7cb3d")
+	)
+	(label "SCK"
+		(at 173.99 142.24 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ff732608-fb79-4e53-bb15-1c4bb1f8e30d")
 	)
 	(symbol
 		(lib_id "DS1337S_:DS1337S_")
@@ -5799,72 +5779,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 242.57 34.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "87e4137f-04f4-4054-b9ee-cf2d9dd53433")
-		(property "Reference" "#FLG01"
-			(at 242.57 32.385 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 242.57 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 242.57 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 242.57 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 242.57 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7dff6535-bf7f-4f84-8cfb-5086e58eca87")
-		)
-		(instances
-			(project ""
-				(path "/b34ba724-37f1-4069-92d1-dfc9c20970e0"
-					(reference "#FLG01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 125.73 152.4 0)
 		(unit 1)
@@ -7331,7 +7245,7 @@
 			)
 		)
 		(pin "TX" output
-			(at 173.99 138.43 180)
+			(at 173.99 135.89 180)
 			(uuid "3724c813-a261-480a-91fb-3d672775a007")
 			(effects
 				(font
@@ -7370,16 +7284,6 @@
 				(justify right)
 			)
 		)
-		(pin "SCK" passive
-			(at 173.99 130.81 180)
-			(uuid "80e1c1d6-8d1d-400d-aeae-0e7366bb6d81")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "SDA" bidirectional
 			(at 173.99 128.27 180)
 			(uuid "5d5d1ee9-5ed2-49c9-824b-5a6098dd1a8f")
@@ -7411,7 +7315,7 @@
 			)
 		)
 		(pin "RX" input
-			(at 173.99 140.97 180)
+			(at 173.99 138.43 180)
 			(uuid "cfd11c4f-59c8-435d-a6bf-853a67ee662c")
 			(effects
 				(font
@@ -7478,6 +7382,26 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "SCK" passive
+			(at 173.99 142.24 180)
+			(uuid "05f09d8f-3caa-447d-a690-88979b99f373")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCL" passive
+			(at 173.99 130.81 180)
+			(uuid "c3c0e6dc-779a-404b-a307-e7bc373e793b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
