@@ -3852,6 +3852,16 @@
 		)
 		(uuid "1e0809f8-49f4-4591-b379-3a32a18b57dc")
 	)
+	(label "ABC123"
+		(at 228.6 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "23cc91fa-ea3b-4597-ac6a-8af624835279")
+	)
 	(label "RESET"
 		(at 173.99 154.94 180)
 		(effects
