@@ -8513,7 +8513,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "v1.0 \n2 Layers desgin"
+	(gr_text "v1.0 \n4 Layers desgin"
 		(at 149.09 106.055 0)
 		(layer "B.SilkS")
 		(uuid "8c982a01-ed96-440f-93b8-b1dc9e7d5761")
